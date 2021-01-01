@@ -38,5 +38,5 @@ console.log(dc.effectiveDamage(100, 50, 30));
 小数点以下の四捨五入の結果、実効ダメージの 83 の値が得られます。
 
 ## CIのStatus Badges
-[![CircleCI](https://circleci.com/gh/hmdmd/damage-calc-4005-v2-yarn.svg?style=svg)](https://circleci.com/gh/hmdmd/damage-calc-4005-v2-yarn)
+[![CircleCI](https://circleci.com/gh/hmdmd/damage-calc-4005-v2-yarn-jest.svg?style=svg)](https://circleci.com/gh/hmdmd/damage-calc-4005-v2-yarn-jest)
 
